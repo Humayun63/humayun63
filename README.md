@@ -1,19 +1,21 @@
+![logo](https://github.com/Humayun63/humayun63/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Md Humayun Kabir</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
+<img align="right" alt="coding image" width="400" src="https://i.ibb.co/KLB1fwH/coding.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayun63&label=Profile%20views&color=0e75b6&style=flat" alt="humayun63" /> </p>
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Redux**
 
-- 👨‍💻 All of my projects are available at [https://humayun.netlify.app/](https://humayun.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://humayun.netlify.app/)
 
-- 📝 I regularly write articles on [https://web.facebook.com/Anxious.Carbon](https://web.facebook.com/Anxious.Carbon)
+- 📝 I regularly write articles on [Facebook](https://web.facebook.com/Anxious.Carbon)
 
 - 💬 Ask me about **JavaScript, React.js**
 
 - 📫 How to reach me **humayun126224@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/frxAY](https://shorturl.at/frxAY)
+- 📄 Know about my experiences through [resume](https://shorturl.at/frxAY)
 
 - ⚡ Fun fact **I think I love sleeping😪**
 
