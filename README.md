@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at my [Portfolio](https://humayun.netlify.app/)
 
 - 📝 I regularly write articles on [Facebook](https://web.facebook.com/Anxious.Carbon)
+- 🐱‍💻 I regularly participate in problem-solving on [LeetCode](https://leetcode.com/humayun93/)
+- 🐱‍👤 I regularly practice CSS on [CSSBattles](https://cssbattle.dev/player/humayun)
 
 - 💬 Ask me about **JavaScript, React.js**
 
